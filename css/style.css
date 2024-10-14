@@ -1,0 +1,31 @@
+body{
+    background-color: #f5f5dc;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width:100%;
+}
+header{
+    text-align: center;
+}
+
+nav{
+    border: 4px solid #277da1;
+    /* text-align: left; */
+    padding: 20px;
+    /* left:80px ; */
+    transform: translateX(0px);
+    text-align: center;
+    width: 100%;
+}
+.contact{
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border:4px solid #277da1;
+    border-radius: 10px;
+    box-shadow: 0 4px 5px #277da1;
+    width: 100%;
+    background-color: #f5f5dc;
+text-decoration: underline;
+
+}
