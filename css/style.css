@@ -10,9 +10,8 @@ header{
 
 nav{
     border: 4px solid #277da1;
-    /* text-align: left; */
-    padding: 20px;
-    /* left:80px ; */
+    background-color: #fcf6bd;
+    padding: 8px;
     transform: translateX(0px);
     text-align: center;
     width: 100%;
@@ -25,7 +24,13 @@ nav{
     border-radius: 10px;
     box-shadow: 0 4px 5px #277da1;
     width: 100%;
-    background-color: #f5f5dc;
+    background-color: 
+    #fcf6bd;
 text-decoration: underline;
 
+}
+a{
+    color: #277da1;
+    text-decoration: none;
+    transition: color 0.3s;
 }
