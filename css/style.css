@@ -8,14 +8,7 @@ header{
     text-align: center;
 }
 
-nav{
-    border: 4px solid #277da1;
-    background-color: #fcf6bd;
-    padding: 8px;
-    transform: translateX(0px);
-    text-align: center;
-    width: 100%;
-}
+
 .contact{
     text-align: center;
     padding: 20px;
@@ -29,8 +22,16 @@ nav{
 text-decoration: underline;
 
 }
+article{
+    border: 4px solid #277da1;
+    background-color: #fcf6bd;
+    padding: 8px;
+    transform: translateX(0px);
+    text-align: center;
+    width: 100%;
+}
 a{
-    color: #277da1;
+    color:#ffb703; 
     text-decoration: none;
     transition: color 0.3s;
 }
